@@ -1,0 +1,23 @@
+{
+	"projectPath": "/Users/basim/Desktop/AWSTest",
+	"mobileProjectID": "us-east-1_CBQb7Ymy8",
+	"projectInfo": {
+		"ProjectName": "AWSTest",
+		"ProjectPath": "/Users/basim/Desktop/AWSTest",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": ""
+	},
+	"initialStage": "clean-slate",
+	"strategy": "link"
+}

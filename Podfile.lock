@@ -1,0 +1,69 @@
+PODS:
+  - AWSAppSync (2.11.0):
+    - AWSCore (~> 2.9.0)
+    - ReachabilitySwift (= 4.3.0)
+    - SQLite.swift (= 0.11.5)
+  - AWSAuthCore (2.9.6):
+    - AWSCore (= 2.9.6)
+  - AWSAuthUI (2.9.6):
+    - AWSAuthCore (= 2.9.6)
+    - AWSCore (= 2.9.6)
+  - AWSCognitoIdentityProvider (2.9.6):
+    - AWSCognitoIdentityProviderASF (= 1.0.1)
+    - AWSCore (= 2.9.6)
+  - AWSCognitoIdentityProviderASF (1.0.1)
+  - AWSCore (2.9.6)
+  - AWSMobileClient (2.9.6):
+    - AWSAuthCore (= 2.9.6)
+    - AWSCognitoIdentityProvider (= 2.9.6)
+  - AWSUserPoolsSignIn (2.9.6):
+    - AWSAuthCore (= 2.9.6)
+    - AWSCognitoIdentityProvider (= 2.9.6)
+  - IQKeyboardManagerSwift (6.2.1)
+  - ReachabilitySwift (4.3.0)
+  - SCLAlertView (0.8)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+
+DEPENDENCIES:
+  - AWSAppSync
+  - AWSAuthUI
+  - AWSCore
+  - AWSMobileClient
+  - AWSUserPoolsSignIn
+  - IQKeyboardManagerSwift
+  - SCLAlertView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AWSAppSync
+    - AWSAuthCore
+    - AWSAuthUI
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSCore
+    - AWSMobileClient
+    - AWSUserPoolsSignIn
+    - IQKeyboardManagerSwift
+    - ReachabilitySwift
+    - SCLAlertView
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  AWSAppSync: d006b0279289b22e8be6f7067686f1d1ba94b343
+  AWSAuthCore: 53c04ee27416dff0382fffec644e2cb15b24fcc0
+  AWSAuthUI: df525f360e42c9928003306084eb00a881e696ad
+  AWSCognitoIdentityProvider: 5f2d07cad68cd9e1b7d05b7dbb7d2676cc5d487d
+  AWSCognitoIdentityProviderASF: f94f1a502e72ef3d0a1de93e10bf7a79c8698118
+  AWSCore: dd24895a435764c4a8b0bcc4bb2f0c78f55b0e11
+  AWSMobileClient: 5806fa54854b921924df4a5567c9d27d9cf52434
+  AWSUserPoolsSignIn: 76eb0e9ebfd98e1da3d8b93c23d6145e2a224c38
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+
+PODFILE CHECKSUM: d848c683668808ba56814283ac8047ed318f5b66
+
+COCOAPODS: 1.5.3
